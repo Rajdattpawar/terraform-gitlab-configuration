@@ -1,0 +1,16 @@
+token                    = "s6y8Pj-Ba-gVC6xw_3LY"
+base_url                 = "http://localhost:8080/api/v4/"
+user_name                = "rpawar01"
+user_email               = "test@test.lcl"
+user_password            = "test@test.lcl"
+user_is_admin            = true
+user_projects_limit      = 10
+group_name               = "developer"
+group_path               = "developer"
+group_description        = "This group is created for the developer"
+group_visibility_level   = "public"
+access_level             = "owner"
+project_name             = "development_feture"
+project_description      = "For development features"
+project_visibility_level = "public"
+project_default_branch   = "develop"
